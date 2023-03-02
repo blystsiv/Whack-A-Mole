@@ -1,5 +1,5 @@
 # Whack a Mole
-![mole](./mole.png)
+![mole](./assets/mole.png)
 
 ## Task decomposition for Whack A Mole game:
 
